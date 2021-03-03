@@ -6,7 +6,8 @@ When a user registeres, a unique identifier is given stored along with the user'
 
 Ex. (accounts_wttxrsswlxraithzjyarqgugqwhlifbebtoudivruwwdmhjrvnlwspxsntukjjrl)
 
-Information is stored in a 1x3 table
+Information is stored in a 1x3 table.
+
 [email/username], [password], [description]
 
 
